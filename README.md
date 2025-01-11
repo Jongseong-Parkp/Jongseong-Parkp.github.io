@@ -1,4 +1,7 @@
-# Welcome to Jongseong94 github !
-E beam interaction calculator is available in <a target="blank" href="https://jongseong94.github.io/E-beam-interaction-calculator/"> Here</a>.
+Welcome to Jongseong94's GitHub!
+Discover the E-beam Interaction Calculator <a target="blank" href="https://jongseong94.github.io/E-beam-interaction-calculator/">here</a>.
 <br>
-Thank you for coming in here !
+This tool is constantly evolving and will be updated with even more features in the future.
+Stay tuned for additional content related to TEM and other exciting developments!
+
+Thank you for visiting and exploring my work!
